@@ -1,0 +1,15 @@
+RollNo,Age,Income,Student,Credit Rating,Buys Computer
+1,Young,High,No,Fair,No
+2,Young,High,No,Excellent,No
+3,Middle Aged,High,No,Fair,Yes
+4,Senior,Medium,No,Fair,Yes
+5,Senior,Low,Yes,Fair,Yes
+6,Senior,Low,Yes,Excellent,No
+7,Middle Aged,Low,Yes,Excellent,Yes
+8,Young,Medium,No,Fair,No
+9,Young,Low,Yes,Fair,Yes
+10,Senior,Medium,Yes,Fair,Yes
+11,Young,Medium,Yes,Excellent,Yes
+12,Middle Aged,Medium,No,Excellent,Yes
+13,Middle Aged,High,Yes,Fair,Yes
+14,Senior,Medium,No,Excellent,No
